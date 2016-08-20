@@ -1,0 +1,10 @@
+body{
+    background-color: slategrey;
+}
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    border: 1px solid red;
+    padding: 20px;
+   color: coral;
+}
